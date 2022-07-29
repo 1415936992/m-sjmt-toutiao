@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    <h1>App 根组件</h1>
+    <i class='toutiao toutiao-pinglun'></i>
+
     <!-- 路由的出口 -->
     <router-view />
   </div>
